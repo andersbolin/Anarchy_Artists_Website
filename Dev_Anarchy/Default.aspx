@@ -6,7 +6,7 @@
 <head runat="server">
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Home | Bootstrap</title>  
+    <title>StudioAnarchy</title>  
     <link href="css/slicebox.css" rel="stylesheet" type="text/css" />   
     <link href="css/animate.min.css" rel="stylesheet" type="text/css" />
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
